@@ -1,4 +1,4 @@
-'''created 9/25/16 by Charles Franzen
+'''
 
 Notes
 -----
@@ -20,7 +20,7 @@ This module implements:
 * the QR algorithm for real eigenvalues, both with and without Hessenberg
   reduction.
 
-This was created as part of a final project for DSCI6001 at GalvanizeU.
+
 '''
 
 import numpy as np
